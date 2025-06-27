@@ -50,6 +50,7 @@ This project analyzes housing market patterns for ABC Company using Tableau. The
 
 - [Dataset]- https://www.kaggle.com/datasets/rituparnaghosh18/transformed-housing-data-2
 - [Dashboard on Tableau Public]- https://public.tableau.com/views/dashboard_17510226966030/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- [Story on Tableau Public ]- https://public.tableau.com/shared/ZFFKRFGYS?:display_count=n&:origin=viz_share_link
 
 ---
 
