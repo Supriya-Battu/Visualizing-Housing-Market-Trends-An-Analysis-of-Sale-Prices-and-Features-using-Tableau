@@ -63,6 +63,15 @@ The project helps ABC Company and stakeholders:
 - Improve pricing and marketing decisions
 
 ---
+TEAM :
+Team member:Harika Annam
+
+Team member : Swarna Mahathi Reddy
+
+Team member : Battu Supriya
+
+Team member : Sudheer Kumar Vadlamudi
+
 ## 📄 License
 
 This project is for educational and academic use only.
